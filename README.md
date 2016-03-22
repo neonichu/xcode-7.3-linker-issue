@@ -12,3 +12,4 @@ duplicate symbol _OBJC_CLASS_$__SwiftNativeNSError in:
 
 Linking works fine if `-ObjC` is not being passed.
 
+See also <http://www.openradar.me/25289652>
